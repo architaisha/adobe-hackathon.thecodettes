@@ -77,7 +77,6 @@ json
 }
 
 ```
-This format is fully compatible with the schema provided in `sample_dataset/schema/output_schema.json`.
 
 
 ## Implementation Details
