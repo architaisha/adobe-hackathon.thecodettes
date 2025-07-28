@@ -1,5 +1,5 @@
 
-##  Round 1B: Multicollection PDF Analyais
+##  Round 1B: Multi-Collection PDF Analysis
 
 ##  Overview
 
