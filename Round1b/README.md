@@ -1,5 +1,5 @@
 
-##  Adobe Hackathon 2025 — Round 1B: Connecting the Dots
+##  Round 1B: Multicollection PDF Analyais
 
 ##  Overview
 
@@ -153,4 +153,3 @@ The goal is to extract, rank, and structure key sections from a collection of di
 
 
 
->  "Connect the dots between documents and decisions." — Adobe Hackathon 2025
