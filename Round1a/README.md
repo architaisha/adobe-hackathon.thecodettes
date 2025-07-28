@@ -58,7 +58,7 @@ Round1a/
 
 
 ## Output Format
-
+```
 For each PDF (e.g., `sample.pdf`), the system produces `sample.json` in the following structure:
 
 json
@@ -76,7 +76,7 @@ json
   ]
 }
 
-
+```
 This format is fully compatible with the schema provided in `sample_dataset/schema/output_schema.json`.
 
 
