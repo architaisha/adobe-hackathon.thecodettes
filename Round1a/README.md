@@ -139,11 +139,6 @@ A multi-page test file (`sample_varied_headings.pdf`) was used to validate:
 - All libraries used are open source and declared in `requirements.txt`.
 
 
-## Contact
-
-Team Member 3: Responsible for system integration, Dockerization, and pipeline orchestration.  
-For any clarifications or walkthroughs, please reach out during Round 1B coordination.
-
 
 ## Validation Checklist
 
