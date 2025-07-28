@@ -145,11 +145,6 @@ The goal is to extract, rank, and structure key sections from a collection of di
 
 
 
-##  Future Work
-
-- Dynamic persona/job inference via LLMs or Adobe APIs (if allowed)
-- GUI to upload PDFs and preview outputs
-- Scoring logic for ranked sections
 
 
 
