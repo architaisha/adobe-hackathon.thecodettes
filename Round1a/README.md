@@ -41,7 +41,7 @@ docker run --rm \
 > ```
 
 ## Project Structure
-
+```
 Round1a/
 ├── main.py                   # Orchestrates the pipeline (Member 3)
 ├── round1a_extractor.py      # PDF text + metadata extractor (Member 1)
@@ -53,7 +53,7 @@ Round1a/
 ├── output/                   # Output JSONs (one per input PDF)
 │   └── sample.json
 └── README.md                 # This file
-
+```
 
 
 
