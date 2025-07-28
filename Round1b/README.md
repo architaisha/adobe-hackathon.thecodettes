@@ -61,12 +61,12 @@ The goal is to extract, rank, and structure key sections from a collection of di
 
 1. **Build the Docker image:**
    ```bash
-   docker build -t adobe-b-ranker .
+   docker build -t adobe-b-ranker:latest .
    ```
 
 2. **Run the container:**
    ```bash
-   docker run -v "%cd%\input":/app/input -v "%cd%\output":/app/output adobe-b-ranker
+   docker run -v "%cd%\\input":/app/input -v "%cd%\\output":/app/output adobe-b-ranker:latest
    ```
 
    >  This will:
