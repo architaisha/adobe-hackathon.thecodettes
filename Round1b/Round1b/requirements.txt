@@ -1,7 +1,0 @@
-pymupdf
-sentence-transformers
-numpy<2
-
-
-
-
